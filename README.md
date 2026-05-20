@@ -2,7 +2,7 @@
 This repository is used for exercise 1 of the programming lecture. 
 
 ![this is the resulting power curve](figures/Figure_1.png)
-Vorgehen:
+
 1. uv runterladen und im terminal überprüfen
 2. runterladen der notwendigen Dateien (activity.csv, load_data.py)
 3. jetzt können die Daten in VS-Code importiert werden und das Projekt kann begonnen werden
